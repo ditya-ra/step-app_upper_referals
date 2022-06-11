@@ -1,0 +1,8 @@
+data
+venv
+db
+ca.crt
+chromedriver.exe
+webdriver
+temp
+.idea
